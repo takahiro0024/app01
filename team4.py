@@ -5,8 +5,8 @@ import random
 import pandas as pd
 
 # APIキーを設定
-openai.api_key = "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"
-gmaps = googlemaps.Client(key='AIzaSyC7MCzsFZqsGH1wQaGnxV7YfLfJqef_ROM')
+openai.api_key = ""
+gmaps = googlemaps.Client(key='')
 
 
 # 住所を緯度と経度に変換する関数
